@@ -1,0 +1,4 @@
+for a in range(2,11,2):
+    print(a,end='')
+for b in range(4,11,4):
+    print(b,end='')
