@@ -1,0 +1,3 @@
+shopping=["powder","shampoo","coffee powder","egg"]
+for i in shopping:
+    print(i)
