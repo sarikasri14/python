@@ -1,0 +1,5 @@
+placement_training=("what is computer","types of computer","hardware of computers","input","output")
+for i in placement_training:
+    print(i)
+for i,placement_training in enumerate(placement_training):
+    print(i+1,placement_training)
