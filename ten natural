@@ -1,0 +1,8 @@
+SUM OF TEN NATURAL NUMBERS 
+Step 1: Start the program 
+Step 2: Get the n value 
+Step 3: Initialise i=0 and sum=0,n=10
+Step 4: Perform from step 5 tp step 6 until
+Step 5: Increment the steps one by one 
+Step 6: Sum 1=i
+Step 7: Print the sum  
