@@ -1,0 +1,7 @@
+ODD OR EVEN :
+Step 1: Start the execution 
+Step 2: Read the value a
+Step 3: If a%2 == 0 then
+Step 4: Print the value is even 
+Step 5: Otherwise the value is odd
+Step 6: Stop the execution 
